@@ -17,3 +17,6 @@ Finally, restart the ComfyUI and enjoy.
 # Preset
 ### Copied preset from [ostris/ai-toolkit](https://github.com/ostris/ai-toolkit)
 <img width="476" height="420" alt="image" src="https://github.com/user-attachments/assets/8fa1799d-97e4-4951-8975-25e80d6dc506" />
+
+# Nodes
+<img width="432" height="889" alt="image" src="https://github.com/user-attachments/assets/543844ac-e827-4ed4-b4d0-bf667becd9c1" />
