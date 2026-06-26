@@ -1,5 +1,5 @@
 # Overview
-This repo make AI-Toolkit FlowMatch scheduler to working on ComfyUI.
+This repo make AI-Toolkit FlowMatch scheduler working on ComfyUI.
 
 # Installation
 Enter directory from command: `comfy/custom_nodes`  
