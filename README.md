@@ -1,6 +1,10 @@
 # Overview
 This repo make AI-Toolkit FlowMatch scheduler working on ComfyUI.
 
+> **[⚠️]**  
+> The result may different from AI-Toolkit because the base model and clip model using to inference are different / quantized.  
+> 
+
 # Installation
 Enter directory from command: `comfy/custom_nodes`  
 then typing: `git clone https://github.com/sandichhuu/ComfyUI-AIToolkit.git`  
